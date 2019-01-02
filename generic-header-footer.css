@@ -1,11 +1,4 @@
 
-body {
-  margin: 0 auto;
-  margin-top: 50px;
-  max-width: 66%;
-  padding-bottom: 110px;
-}
-
 .header {
   border-top: 3px solid #003087;
   border-bottom: 2px solid gray;
@@ -16,9 +9,6 @@ body {
   min-width: 0;
   max-height: 110px;
   background: white;
-
-
-
 }
 
 .logo {
