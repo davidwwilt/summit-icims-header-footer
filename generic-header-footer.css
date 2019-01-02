@@ -11,6 +11,10 @@
   background: white;
 }
 
+.icims-body {
+	background-color: #fafafa;
+}
+
 .logo {
 	max-height: 110px;
 }
@@ -22,6 +26,7 @@
   left: 0;
   background-color: #003087;
   font-size: 1em;
-  color: #fff;
+  font-family: Montserrat;
+  color: #cccccc;
   padding: 45px;
 }
