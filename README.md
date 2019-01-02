@@ -1,1 +1,1 @@
-"# Summit ICIMS Header/Footer Change" 
+# Summit ICIMS Header/Footer Change
