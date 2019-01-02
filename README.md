@@ -1,1 +1,1 @@
-# Summit ICIMS Header/Footer Change
+# Summit 3rd Party Vendor Header/Footer
