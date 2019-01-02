@@ -1,0 +1,42 @@
+.app-header {
+  background-color: #313131;
+  color: white;
+}
+
+.app-body {
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 66%;
+  padding-bottom: 110px; // counter the height of the placeholder footer below, can be removed once using summit-nav
+}
+
+/* Classes for placeholder header/footer until the redesigned header goes live */
+/* Can be removed once using summit-nav */
+.header {
+  border-top: 3px solid #003087;
+  border-bottom: 2px solid gray;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-height: 0;
+  min-width: 0;
+  max-height: 110px;
+  background: white;
+
+  img {
+    max-height: 110px;
+    cursor: pointer;
+  }
+
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #003087;
+  font-size: 1em;
+  color: #fff;
+  padding: 45px;
+}
