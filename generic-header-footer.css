@@ -1,17 +1,11 @@
-.app-header {
-  background-color: #313131;
-  color: white;
-}
 
-.app-body {
+body {
   margin: 0 auto;
   margin-top: 50px;
   max-width: 66%;
-  padding-bottom: 110px; // counter the height of the placeholder footer below, can be removed once using summit-nav
+  padding-bottom: 110px;
 }
 
-/* Classes for placeholder header/footer until the redesigned header goes live */
-/* Can be removed once using summit-nav */
 .header {
   border-top: 3px solid #003087;
   border-bottom: 2px solid gray;
@@ -24,7 +18,6 @@
   background: white;
 
   img {
-    max-height: 110px;
     cursor: pointer;
   }
 
