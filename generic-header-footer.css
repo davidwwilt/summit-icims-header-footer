@@ -17,10 +17,12 @@ body {
   max-height: 110px;
   background: white;
 
-  img {
-    cursor: pointer;
-  }
 
+
+}
+
+.logo {
+	max-height: 110px;
 }
 
 .footer {
