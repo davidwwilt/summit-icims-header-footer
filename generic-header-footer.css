@@ -24,6 +24,10 @@ body {
 	max-height: 110px;
 }
 
+.bottom-logo {
+	
+}
+
 .footer {
   position: absolute;
   right: 0;
@@ -34,4 +38,10 @@ body {
   font-family: Montserrat;
   color: #cccccc;
   padding: 45px;
+}
+
+.copyright {
+  display: flex;
+   align-items: center; 
+  justify-content: space-between;
 }
