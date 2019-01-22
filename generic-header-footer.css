@@ -18,6 +18,12 @@
 body {
 	background-color: #fafafa;
 	margin: 0px;
+	
+}
+.third-party {
+	width: 80%;
+	background-color: red;
+	margin: 0 auto;
 }
 
 .logo {
